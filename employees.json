@@ -1,0 +1,17 @@
+{
+    "employees": [
+      {
+        "employeeID": 1,
+        "name": "Miguel Urdaneta",
+        "salary": 500000000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 2,
+        "name": "Jane Smith",
+        "salary": 60000,
+        "department": "HR"
+      }
+    ]
+  }
+  
